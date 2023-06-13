@@ -1,0 +1,12 @@
+1;1;6;9;3;1
+MMMMbMMMMMMWWWWWWWWWWWwww
+M         MW            w
+M  B   B  MWWWWW WWWWWw w
+M B     B MWBBBB BBBB w w
+M         MRB       B w w
+M    E         w    B w w
+M         MRB  B    B w w
+M B     B MBB  w    BBB B
+M  B   B  MB            B
+M         MB        BBBBB
+MMMMMMMMMMMBBBBBBBBBB

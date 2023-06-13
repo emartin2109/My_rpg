@@ -1,0 +1,23 @@
+2;2;39;19;20;20
+wwwwwwwwwwwwwwwwwwwwwwww
+w                      w
+w             M        w
+w             M        w
+w             MMMMMM   wwwwwRwwwwwwwwwRww
+w                                       w
+w    MMMMMMM           w                R
+w    M                 w     M          w
+w    M     M       M   w     M    MMM   w
+w    M     M       M   w     M    M     w
+w          M   MMMMM   wMMMMMM    M     R
+w MMMMMMMMMM           w                w
+w w                    w       MMMMMMM  w
+w wwwwwwwwwwwwwwwwwwwwww             M  w
+w                      w             M  w
+w        MMMMMMMMMM    w             M  w
+w                 M    w     MMMMMMMMM  R
+w                 M    w                w
+w                 M    w                w
+w                      w                w
+w                      w                b
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwbw

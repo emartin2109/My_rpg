@@ -1,0 +1,35 @@
+1;1;56;32;56;32
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+M                                                         M
+M                                                         M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w   w w w w w w w w w w w w w w M
+M w w   w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w   w w w w w   w w w w w w w w   w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w   w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w   w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w   w w w w w w w w w w   w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w    w w w w w w w w   w w w w w w w  w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w   w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w   w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w   w w w w w w w w w w w   w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w   w w w M
+M w w w w w w w w w w   w w w w w w w w w w w w w w w w w M
+M w   w w w w w w w w w w w w w w w w w w w w w w w w w w M
+M w w w w w w w w w w w w w w w w w w w w w w w w w w w w M
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww wwwwwwwwwwwwwwwwwww
+w                                                         b
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwbw

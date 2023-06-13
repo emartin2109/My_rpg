@@ -1,0 +1,22 @@
+10;10;2;2;15;15
+wbwwwwwwwwwwwwwMMMMMMMMMMMMMMMMM
+b           MMM                 MMMM
+w       MMMM                        MMM
+w     M                                MM
+w   MM                                   MM
+w  M                                       M
+w M                                         M
+wM                                           M
+M                                             M
+M                                             M
+M                                             M
+M                                             M
+M                                             M
+ M                                           M
+  M                                         M
+   M                                       M
+    MM                                   MM
+      MM                               MM
+        MMM                         MMM
+           MMMM                 MMMM
+               MMMMMMMMMMMMMMMMM
